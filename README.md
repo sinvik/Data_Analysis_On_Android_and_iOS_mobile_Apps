@@ -1,0 +1,2 @@
+# Data_Analysis_On_Android_and_iOS_mobile_Apps
+XYZ company having below requirements  We make our apps available on Google Play and the App Store.  We only build apps that are free to download and install.  Our main source of revenue consists of in-app ads.This means our revenue for any given app is mostly influenced by the number of users who use our app — the more users that see and engage with the ads, the better.  My goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users.
